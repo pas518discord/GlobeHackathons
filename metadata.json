@@ -1,0 +1,7 @@
+{
+  "name": "GlobalHackathons AI",
+  "description": "An intelligent AI agent that scouts the web for daily hackathons, featuring 3D notifications and personalized matching based on your knowledge scope.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
