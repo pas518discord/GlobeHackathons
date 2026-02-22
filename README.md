@@ -1,11 +1,11 @@
 <img width="1701" height="889" alt="image" src="https://github.com/user-attachments/assets/b4915a69-ecbf-4571-b064-78e7d70daf4e" />
-# 🌍 Global Hackathon Explorer
+#  Global Hackathon Explorer
 
 A stunning 3D interactive globe that visualizes major upcoming hackathons around the world, powered by Google Gemini AI. Explore events in real time, see your location on the globe, and get AI-curated hackathon data — all rendered in a cinematic, space-grade interface.
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Interactive 3D Globe** — Built with Three.js and React Three Fiber for a high-fidelity satellite render experience
 - **AI-Powered Data** — Uses Google Gemini to discover and surface global hackathon events
@@ -16,7 +16,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
@@ -29,7 +29,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -65,7 +65,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ├── App.tsx               # Root component — layout, state, sidebar HUD
@@ -84,7 +84,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 📦 Available Scripts
+##  Available Scripts
 
 | Command | Description |
 |---|---|
@@ -94,7 +94,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 🔐 Environment Variables
+##  Environment Variables
 
 | Variable | Description |
 |---|---|
@@ -104,7 +104,7 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 🌐 How It Works
+##  How It Works
 
 1. On load, the app requests the user's geolocation (optional) and pins it on the globe.
 2. A call is made to the Gemini API via `geminiService`, which returns a curated list of global hackathons with coordinates, dates, descriptions, and URLs.
@@ -113,6 +113,6 @@ A stunning 3D interactive globe that visualizes major upcoming hackathons around
 
 ---
 
-## 📄 License
+##  License
 
 This project is private. All rights reserved.
