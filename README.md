@@ -1,4 +1,8 @@
 <img width="1701" height="889" alt="image" src="https://github.com/user-attachments/assets/b4915a69-ecbf-4571-b064-78e7d70daf4e" />
+<img width="1381" height="887" alt="image" src="https://github.com/user-attachments/assets/cff1b748-0b6f-40e4-9586-9ee410fec0b9" />
+<img width="1393" height="891" alt="image" src="https://github.com/user-attachments/assets/a57895b1-1b73-45a6-80e4-12f9ffadcfa0" />
+
+
 #  Global Hackathon Explorer
 
 A stunning 3D interactive globe that visualizes major upcoming hackathons around the world, powered by Google Gemini AI. Explore events in real time, see your location on the globe, and get AI-curated hackathon data — all rendered in a cinematic, space-grade interface.
